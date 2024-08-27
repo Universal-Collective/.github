@@ -1,6 +1,7 @@
 name: Bug Report
 description: Do you believe you have found a bug?
 title: "[Bug]: "
+labels: [ "bug" ]
 assignees:
   - Leialoha
 body:
