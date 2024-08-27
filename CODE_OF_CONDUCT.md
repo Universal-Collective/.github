@@ -38,7 +38,7 @@ This Code of Conduct applies within all project spaces and also applies when an 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [email@universalcollective.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project lead at [leialoha@leialoha.dev]. All complaints will be reviewed and investigated promptly and fairly.
 
 All project team members are obligated to respect the privacy and security of the reporter of any incident.
 
